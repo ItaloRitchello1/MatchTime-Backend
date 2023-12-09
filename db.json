@@ -94,5 +94,13 @@
   ],
   "comunidades": [
     {}
+  ],
+  "gameroom": [
+    {
+      "Cs": "src/img/cs-icon.png",
+      "Vava": "img/valorant-icon.png",
+      "Lol": "img/lol-icon.png",
+      "Rocket": "img/rocket-icon.png"
+    }
   ]
 }
