@@ -2,33 +2,67 @@
   "users": [
     {
       "id": "0",
-      "nome": "user01",
-      "email": "aaaaa1@a.com",
-      "senha": "senha",
+      "nome": "GabsehOmelhor",
+      "email": "gabs@gmail.com",
+      "senha": "1234",
       "foto": "https://64.media.tumblr.com/1f7d99a8e77234f56a27cd1ad10fdc97/376583d200633922-61/s1280x1920/4e729b471e8adf1104064a1af6466d1d7ff57726.png",
-      "bio": "a abc adbc a",
-      "idJogos": [
-        0,
-        1,
-        2,
-        3
-      ],
+      "bio": "Desenvolvedor de jogos, fã de games single player",
+      "idJogos": [0,1,2,3],
       "comunidadesCriadas": [],
       "comunidadesEntradas": []
     },
     {
       "id": "1",
-      "nome": "user02",
-      "email": "aaaaa2@a.com",
-      "senha": "senha",
+      "nome": "BielTheBest",
+      "email": "biel@gmail.com",
+      "senha": "1234",
+      "foto": "https://images.freeimages.com/images/large-previews/67f/critter-cat-1382005.jpg",
+      "bio": "Gamer de Minecraft arquiteto de software",
+      "idJogos": [0,1,2,3],
+      "comunidadesCriadas": [],
+      "comunidadesEntradas": []
+    },
+       {
+      "id": "2",
+      "nome": "ANAGAMER",
+      "email": "ana@gmail.com",
+      "senha": "1234",
       "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEVDVxdZHPfqU6uhN4Weuh_Ojc_Creh14Uwg&usqp=CAU",
-      "bio": "a abc adbc a",
-      "idJogos": [
-        0,
-        1,
-        2,
-        3
-      ],
+      "bio": "Programadora iniciante, desenvolvedora front end. Maior fã de overwatch",
+      "idJogos": [0,1,2,3],
+      "comunidadesCriadas": [],
+      "comunidadesEntradas": []
+    },
+    {
+      "id": "3",
+      "nome": "Italoo",
+      "email": "italo@gmail.comm",
+      "senha": "1234",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEVDVxdZHPfqU6uhN4Weuh_Ojc_Creh14Uwg&usqp=CAU",
+      "bio": "Programador Senior, melhor jogador de cs da história",
+      "idJogos": [0,1,2,3],
+      "comunidadesCriadas": [],
+      "comunidadesEntradas": []
+    },
+    {
+      "id": "4",
+      "nome": "Italoo22",
+      "email": "italo22@gmail.com",
+      "senha": "1234",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEVDVxdZHPfqU6uhN4Weuh_Ojc_Creh14Uwg&usqp=CAU",
+      "bio": "Design para Mobile, Fã de hades" ,
+      "idJogos": [0,1,2,3],
+      "comunidadesCriadas": [],
+      "comunidadesEntradas": []
+    },
+    {
+      "id": "5",
+      "nome": "JaozinhoMatador",
+      "email": "jaojao@gmail.com",
+      "senha": "1234",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEVDVxdZHPfqU6uhN4Weuh_Ojc_Creh14Uwg&usqp=CAU",
+      "bio": "Jogador Profissional de Valorant, bronze no lol",
+      "idJogos": [0,1,2,3],
       "comunidadesCriadas": [],
       "comunidadesEntradas": []
     }
