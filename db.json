@@ -1,41 +1,98 @@
 {
-  "usuarios": [
+  "users": [
     {
-      "id": 1,
-      "nome": "",
-      "email": "",
-      "nick": ""
+      "id": "0",
+      "nome": "user01",
+      "email": "aaaaa1@a.com",
+      "senha": "senha",
+      "foto": "https://64.media.tumblr.com/1f7d99a8e77234f56a27cd1ad10fdc97/376583d200633922-61/s1280x1920/4e729b471e8adf1104064a1af6466d1d7ff57726.png",
+      "bio": "a abc adbc a",
+      "idJogos": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comunidadesCriadas": [],
+      "comunidadesEntradas": []
     },
     {
-      "id": 2,
-      "nome": "",
-      "email": "",
-      "nick": ""
+      "id": "1",
+      "nome": "user02",
+      "email": "aaaaa2@a.com",
+      "senha": "senha",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEVDVxdZHPfqU6uhN4Weuh_Ojc_Creh14Uwg&usqp=CAU",
+      "bio": "a abc adbc a",
+      "idJogos": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "comunidadesCriadas": [],
+      "comunidadesEntradas": []
+    }
+  ],
+  "games": [
+    {
+      "id": "0",
+      "nome": "Counter Strike 2",
+      "fotoIcon": "",
+      "fotoCard": "img/cs-card.jpg",
+      "fotoCover": ""
+    },
+    {
+      "id": "1",
+      "nome": "League of Legends",
+      "fotoIcon": "",
+      "fotoCard": "img/lol-card.jpeg",
+      "fotoCover": ""
+    },
+    {
+      "id": "2",
+      "nome": "Rocket League",
+      "fotoIcon": "",
+      "fotoCard": "img/rocket-card.jpg",
+      "fotoCover": ""
+    },
+    {
+      "id": "3",
+      "nome": "Valorant",
+      "fotoIcon": "",
+      "fotoCard": "img/valorant-card.jpg",
+      "fotoCover": ""
     }
   ],
   "eventos": [
     {
-
+      "id": "0",
+      "img": "img/lol-cover-img.jpg",
+      "Titulo": "O Verdadeiro Carry do Time: Campeonato x1 de Suportes",
+      "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum quae cumque, eum, totam nam exeaque impedit doloribus quis, porro et quibusdam tenetur recusandae deleniti? Iusto, tenetearum eius vero ipsam distinctio voluptate. Reprehenderit molestiae dicta quia, iusto tenetur dignissimos aperiam natus nam veritatis qui voluptate, dolorem possimus consequatur aut."
+    },
+    {
+      "id": "1",
+      "img": "img/val-cover-img.jpg",
+      "Titulo": "Gun Game sem estresse",
+      "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum quae cumque, eum, totam nam exeaque impedit doloribus quis, porro et quibusdam tenetur recusandae deleniti? Iusto, tenetearum eius vero ipsam distinctio voluptate. Reprehenderit molestiae dicta quia, iusto tenetur dignissimos aperiam natus nam veritatis qui voluptate, dolorem possimus consequatur aut."
+    },
+    {
+      "id": "2",
+      "img": "img/csgo-cover-img.jpg",
+      "Titulo": "Na mão você se garante? Free-for-All só na faquinha",
+      "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum quae cumque, eum, totam nam exeaque impedit doloribus quis, porro et quibusdam tenetur recusandae deleniti? Iusto, tenetearum eius vero ipsam distinctio voluptate. Reprehenderit molestiae dicta quia, iusto tenetur dignissimos aperiam natus nam veritatis qui voluptate, dolorem possimus consequatur aut."
     }
   ],
   "tutorial": [
-    {
-      
-    }
+    {}
   ],
   "usuarios-denunciado": [
-    {
-      
-    }
+    {}
   ],
   "rodape": [
-    {
-      
-    }
+    {}
   ],
   "comunidades": [
-    {
-      
-    }
+    {}
   ]
 }
