@@ -97,10 +97,28 @@
   ],
   "gameroom": [
     {
-      "Cs": "src/img/cs-icon.png",
-      "Vava": "img/valorant-icon.png",
-      "Lol": "img/lol-icon.png",
-      "Rocket": "img/rocket-icon.png"
+      "id": "1",
+      "name": "Cs",
+      "imagePath": "src/img/cs-icon.png",
+      "roomLink": "src/lobby-room-cs.html"
+    },
+    {
+      "id": "2",
+      "name": "Vava",
+      "imagePath": "img/valorant-icon.png",
+      "roomLink": "src/lobby-room-valorant.html"
+    },
+    {
+      "id": "3",
+      "name": "Lol",
+      "imagePath": "img/lol-icon.png",
+      "roomLink": "src/lobby-room-lol.html"
+    },
+    {
+      "id": "4",
+      "name": "Rocket",
+      "imagePath": "img/rocket-icon.png",
+      "roomLink": "src/lobby-room-rocket.html"
     }
   ]
 }
