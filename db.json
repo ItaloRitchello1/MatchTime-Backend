@@ -7,7 +7,12 @@
       "senha": "1234",
       "foto": "https://64.media.tumblr.com/1f7d99a8e77234f56a27cd1ad10fdc97/376583d200633922-61/s1280x1920/4e729b471e8adf1104064a1af6466d1d7ff57726.png",
       "bio": "Desenvolvedor de jogos, fã de games single player",
-      "idJogos": [0,1,2,3],
+      "idJogos": [
+        0,
+        1,
+        2,
+        3
+      ],
       "comunidadesCriadas": [],
       "comunidadesEntradas": []
     },
@@ -18,18 +23,28 @@
       "senha": "1234",
       "foto": "https://images.freeimages.com/images/large-previews/67f/critter-cat-1382005.jpg",
       "bio": "Gamer de Minecraft arquiteto de software",
-      "idJogos": [0,1,2,3],
+      "idJogos": [
+        0,
+        1,
+        2,
+        3
+      ],
       "comunidadesCriadas": [],
       "comunidadesEntradas": []
     },
-       {
+    {
       "id": "2",
       "nome": "ANAGAMER",
       "email": "ana@gmail.com",
       "senha": "1234",
       "foto": "https://i.pinimg.com/736x/9d/fa/4d/9dfa4df56b140ee2fe8310eaf8d1a8df.jpg",
       "bio": "Programadora iniciante, desenvolvedora front end. Maior fã de overwatch",
-      "idJogos": [0,1,2,3],
+      "idJogos": [
+        0,
+        1,
+        2,
+        3
+      ],
       "comunidadesCriadas": [],
       "comunidadesEntradas": []
     },
@@ -40,7 +55,12 @@
       "senha": "1234",
       "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEVDVxdZHPfqU6uhN4Weuh_Ojc_Creh14Uwg&usqp=CAU",
       "bio": "Programador Senior, melhor jogador de cs da história",
-      "idJogos": [0,1,2,3],
+      "idJogos": [
+        0,
+        1,
+        2,
+        3
+      ],
       "comunidadesCriadas": [],
       "comunidadesEntradas": []
     },
@@ -50,8 +70,13 @@
       "email": "italo22@gmail.com",
       "senha": "1234",
       "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEVDVxdZHPfqU6uhN4Weuh_Ojc_Creh14Uwg&usqp=CAU",
-      "bio": "Design para Mobile, Fã de hades" ,
-      "idJogos": [0,1,2,3],
+      "bio": "Design para Mobile, Fã de hades",
+      "idJogos": [
+        0,
+        1,
+        2,
+        3
+      ],
       "comunidadesCriadas": [],
       "comunidadesEntradas": []
     },
@@ -62,7 +87,12 @@
       "senha": "1234",
       "foto": "https://criadoresid.com/wp-content/uploads/2020/11/joaozinho-little-angel.jpg",
       "bio": "Jogador Profissional de Valorant, bronze no lol",
-      "idJogos": [0,1,2,3],
+      "idJogos": [
+        0,
+        1,
+        2,
+        3
+      ],
       "comunidadesCriadas": [],
       "comunidadesEntradas": []
     }
@@ -102,25 +132,22 @@
       "id": "0",
       "img": "img/lol-cover-img.jpg",
       "Titulo": "O Verdadeiro Carry do Time: Campeonato x1 de Suportes",
-      "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum quae cumque, eum, totam nam exeaque impedit doloribus quis, porro et quibusdam tenetur recusandae deleniti? Iusto, tenetearum eius vero ipsam distinctio voluptate. Reprehenderit molestiae dicta quia, iusto tenetur dignissimos aperiam natus nam veritatis qui voluptate, dolorem possimus consequatur aut."
+      "descricao": "Adentrem à arena do 'Duelo dos Suportes', um intenso campeonato 1x1 onde os guardiões de equipe se enfrentam. Threshs habilidosos, Jannas astutas e Leonas destemidas mostrarão quem realmente é o carry oculto. Preparem-se para jogadas surpreendentes e estratégias inovadoras neste duelo de titãs suportes. Quem será coroado como o verdadeiro herói do time? Não percam esta batalha intensa e emocionante!"
     },
     {
       "id": "1",
       "img": "img/val-cover-img.jpg",
       "Titulo": "Gun Game sem estresse",
-      "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum quae cumque, eum, totam nam exeaque impedit doloribus quis, porro et quibusdam tenetur recusandae deleniti? Iusto, tenetearum eius vero ipsam distinctio voluptate. Reprehenderit molestiae dicta quia, iusto tenetur dignissimos aperiam natus nam veritatis qui voluptate, dolorem possimus consequatur aut."
+      "descricao": "Mergulhe na intensidade do 'Gun Game Zen' no Valorant, um evento sem estresse que redefine a competição. Desafiando as expectativas tradicionais, os jogadores atravessarão um emocionante percurso de armas em uma atmosfera descontraída. Desfrute de partidas frenéticas, sem a pressão usual, enquanto avança através da variedade de armas e habilidades do jogo. Envolva-se na diversão pura, onde a ênfase está na experiência leve e na habilidade, proporcionando aos jogadores uma jornada única e relaxante através do arsenal do Valorant. Prepare-se para uma competição descontraída e cheia de ação, onde a diversão é a prioridade!"
     },
     {
       "id": "2",
       "img": "img/csgo-cover-img.jpg",
       "Titulo": "Na mão você se garante? Free-for-All só na faquinha",
-      "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum quae cumque, eum, totam nam exeaque impedit doloribus quis, porro et quibusdam tenetur recusandae deleniti? Iusto, tenetearum eius vero ipsam distinctio voluptate. Reprehenderit molestiae dicta quia, iusto tenetur dignissimos aperiam natus nam veritatis qui voluptate, dolorem possimus consequatur aut."
+      "descricao": "Desafie seus instintos no 'Faquinha Frenética', um Free-for-All eletrizante no Counter-Strike. Armados apenas com facas afiadas, os jogadores embarcarão em uma experiência intensa de combate corpo a corpo. Neste evento único, a destreza e a agilidade serão suas maiores armas. Prepare-se para duelos frenéticos, eliminações épicas e muita adrenalina enquanto você luta pela supremacia em meio ao caos das faquinhas. Será que você se garante na mão? Entre nessa batalha frenética e mostre suas habilidades no combate corpo a corpo!"
     }
   ],
   "tutorial": [
-    {}
-  ],
-  "usuarios-denunciado": [
     {}
   ],
   "rodape": [
