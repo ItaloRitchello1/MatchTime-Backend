@@ -154,7 +154,30 @@
     {}
   ],
   "comunidades": [
-    {}
+    {
+      "id": "0",
+      "nome": "Server Oficial Valorant",
+      "link": "https://discord.com/invite/valorant-br",
+      "imagem": "https://dotesports.com/br/wp-content/uploads/sites/3/2020/04/08220010/LogoVersion_Beta-Key-Art_VALORANT.jpg?w=1200"
+    },
+    {
+      "id": "0",
+      "nome": "Server Oficial Lol",
+      "link": "https://discord.com/invite/leagueoflegends",
+      "imagem": "https://t.ctcdn.com.br/bM7oUg_T9cO6DYuP6ddPv7Ksoas=/640x360/smart/i465599.jpeg"
+    },
+    {
+      "id": "0",
+      "nome": "Server Oficial Rocket",
+      "link": "https://discord.com/invite/rocketleague",
+      "imagem": "https://rocketleague.media.zestyio.com/rl_platform_keyart_2019.jpg?width=1920&optimize=high"
+    },
+    {
+      "id": "0",
+      "nome": "Server Oficial Counter-Strike",
+      "link": "https://discord.com/invite/counterstrike",
+      "imagem": "https://assets.gamearena.gg/wp-content/uploads/2023/03/30004837/662243.jpg"
+    }
   ],
   "gameroom": [
     {
